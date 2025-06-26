@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.WebAPI", "TaskFlow.WepAPI\TaskFlow.WebAPI.csproj", "{4F38AC44-6796-429C-A938-79439EB7347B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F38AC44-6796-429C-A938-79439EB7347B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F38AC44-6796-429C-A938-79439EB7347B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F38AC44-6796-429C-A938-79439EB7347B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F38AC44-6796-429C-A938-79439EB7347B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51564A0F-AD73-4B0A-A45B-EF473D07B72D}
+	EndGlobalSection
+EndGlobal
